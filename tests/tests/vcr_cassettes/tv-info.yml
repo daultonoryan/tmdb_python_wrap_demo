@@ -1,0 +1,56 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [keep-alive]
+      User-Agent: [python-requests/2.18.4]
+    method: GET
+    uri: https://api.themoviedb.org/3/tv/1396?api_key=eb51b083042a71e373dbe80d5cdd6ccd
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA31VW3PaOhD+Kxq/nBdDfAEMeQtpTkhzISkJuXQ6jGwvtsCWXEnGQCf//awclyaB
+        HmZgjHa13/ftzb+skEbLWIpiVlCdWsfWUbgVL4s0LCQb3ns33WWVXDoVPMyn46f2okgs24okUA3x
+        LNxYx99/WSy2jnu9nu/bFqc5YIwp4xGQc5ZlLKEcbxRSzFkGOwx5NXlYyMDrwtaNLoPJ5XR9Oijj
+        seM/1xivP2wLCqZEDDNZ8plmJu73TtfuBGiaM6n0jDI5i5EIBvQcp99y3JY7QLAEuAS1o+b2d7y+
+        SJrTOngqcihoYg5TrYvjo6Oqqto0j9qRyI9UKip1FKLMJeNJK6Qxhq1j+YMePvEZCorLSDPBreM5
+        zRTYVkZ5UmJIg2yBUR0D/kiBP3iIrKn1w7h9pu76LWfQ8gz1huewQSbDGpmDroRcvpMUdHa+J9en
+        tSJe5iHImZjPmsShe897f66AKsHxuGtbQrIEZUSi5FqaMloPE8Pu7Zxms99qEKHWsjMcpihWIFcM
+        qk8WwhShnJzkIFmED5HEQpLYlIFoyGDFFKaQKDSDIk1f4Y2YvCUY/4Qb8rGd2mQC+qMPQ4gsLH+W
+        IPFrkxuoyDWsWSRs8pmOToEoLeSGiDl5pJkGSR5TpvEaRYMskyQz7ilLUqKiVIiMRCnkDG0bJE3x
+        jyRVKkywmNGEC4UUKqZT5CEKkDTMgGQlxkDJETpTXaOGgBnkJjYi1zRq2W0yAqJLyZGbQA4Zm4Px
+        qHNlNyLNLSNZQVazy0GnNC9S0DRnHN0wBULGCIYxFESlBFSgyBzN2eYffMDi8YjRjMxLbawhzIVx
+        wnIgCdsoy03kWkh9VUgsG6akjIFrm3wFpYDcMr7MTRFGQFcYuhZBM7aF2H4nyiRnyUXFTRhSCMXM
+        rJj4TGOhUypphJlXhrcCMMgYC5WstekUk8FISG48jOyUKiQMnGQ0xLbBFkEz15AXQlIsSwUKo3HT
+        LHV800hCts3mEUWZUck0Nnnfa3f6Ax+3CB6bC7t95G5g+lWsfbkQ3mJ4KSVLL64XQSkmg2bn/Rl4
+        HJq8oJw1K6aZh3OJ7T1llNzuHM3Mm2n1ek731d55TgTfYBojUwVF7ndT8HvFuE7gv3MfmT4cShYn
+        QM5QstSU8Rwr0vj7ftDxzALYjTeS+rgaBy3Ha7mB2UPNTq3nHvdDE6IbBHspOeHJTfkQPk0iVl3x
+        hycdj4ejn0W6vpFNSt4AZ28Lxjp2DOm/7eRPwMEO2NsDdoe3nfXzavBy3nmZjpZXgYjGWzYMJ8+j
+        w8DuPjAqxqXa3wd2/R2yv4ecxNsvj9e97tK5lpU77tz+e5d3WLSMrqaHkb09ZNcxyJ77v8j7/beJ
+        /bvgsaeD1cVj/z534ktv+pBejHn2F811h3xEdltOcLDK75B7e8jp2Xj8LRr0eu7pt9viC/WcoHLP
+        y7OT68Vh5M4+slcjdw8g/2mw/h6y9LeBsyo5S+XJcnFxdXf5OHpyzr31dnwYuVt3uaa6xCa3zngM
+        5s2jN0U9VbguC12frISGGcUXUv366rd95/3HbRwaip7b773+B92x3XkGCQAA
+    headers:
+      Access-Control-Allow-Origin: ['*']
+      Access-Control-Expose-Headers: ['ETag, X-RateLimit-Limit, X-RateLimit-Remaining,
+          X-RateLimit-Reset, Retry-After']
+      Cache-Control: ['public, max-age=28800']
+      Connection: [keep-alive]
+      Content-Encoding: [gzip]
+      Content-Length: ['1185']
+      Content-Type: [application/json;charset=utf-8]
+      Date: ['Fri, 05 Jan 2018 20:24:10 GMT']
+      ETag: [W/"5f9d651b11c53fd664b778a908bd3484"]
+      Server: [openresty]
+      Vary: [Accept-Encoding]
+      X-Memc: [HIT]
+      X-Memc-Age: ['25057']
+      X-Memc-Expires: ['3743']
+      X-Memc-Key: [c74db595fa187c90be00ec20cf9a07f6]
+      X-RateLimit-Limit: ['40']
+      X-RateLimit-Remaining: ['39']
+      X-RateLimit-Reset: ['1515183860']
+    status: {code: 200, message: OK}
+version: 1
